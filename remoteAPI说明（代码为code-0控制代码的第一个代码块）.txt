@@ -1,0 +1,5 @@
+由于使用的是remoteAPI而非内置脚本，使用时需要将
+
+C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\zmqRemoteApi\clients\python
+
+中的内容复制到control.ipynb所在的文件夹下
